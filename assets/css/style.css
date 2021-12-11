@@ -41,6 +41,12 @@ body {
     margin-left: 25px;
 }
 
+.main {
+    display: flex;
+
+}
+
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -206,3 +212,5 @@ p {
 .text-right {
     text-align: right;
 }
+
+
