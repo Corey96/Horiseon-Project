@@ -1,5 +1,3 @@
-# Horiseon-Project 
-
 The Horiseon Project is a marketing company specialising in Search Engine Optimization, Online Reputation Management and Social Media Marketing. On the web page I have linked the nav links in the header to the relevant section of the web page. 
 The titles have been upscaled for easier reading. 
 The overall HTML code has been tidied up and relevant semantic elements added where required. 
