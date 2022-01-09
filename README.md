@@ -10,5 +10,5 @@ The style.css file has had a few changes to help overall functionality of the pa
 ![](assets/images/Horiseon%202.png)
 ![](assets/images/Horiseon%203.png)
 
-GitHub URL: https://corey96.github.io/Horiseon-Project/
-Website URL: https://github.com/Corey96/Horiseon-Project
+GitHub URL: https://github.com/Corey96/Horiseon-Project
+Website URL: https://corey96.github.io/Horiseon-Project/
